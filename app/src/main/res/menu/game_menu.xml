@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_restart_game"
+        android:title="New Game"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/other_game"
+        android:title=""
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home"
+        app:showAsAction="never" />
+</menu>
